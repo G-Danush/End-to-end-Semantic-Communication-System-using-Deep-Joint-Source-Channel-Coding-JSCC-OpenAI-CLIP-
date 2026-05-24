@@ -1,1 +1,1 @@
-# Semantics-Communication-Using-Deep-Laerning
+# Semantics-Communication-Using-Deep-Learning

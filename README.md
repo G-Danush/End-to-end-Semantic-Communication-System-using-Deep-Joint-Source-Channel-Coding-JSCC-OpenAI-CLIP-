@@ -1,5 +1,19 @@
 # Semantic Communication System Using Deep Learning
 
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Framework](https://img.shields.io/badge/Framework-PyTorch-ee4c2c)
+![Models](https://img.shields.io/badge/Models-CLIP%20%7C%20VGG--16-green)
+![Optimization](https://img.shields.io/badge/Optimization-Optuna-blueviolet)
+
+![Environment](https://img.shields.io/badge/Environment-Google%20Colab-F9AB00)
+![Hardware](https://img.shields.io/badge/Hardware-NVIDIA%20T4-76b900)
+![Metrics](https://img.shields.io/badge/Metrics-SSIM%20%7C%20Zero--Shot%20Acc-ff69b4)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![Repo Size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=social)
+
 An end-to-end Semantic Communication framework that shifts the paradigm from traditional bit-level transmission (Shannon's limit) to meaning-preserving image transmission using Deep Joint Source-Channel Coding (JSCC) and Vision-Language Models.
 
 📄 **[Read the Full Thesis / Project Report Here](Semantic_communication_using_deep_learning.pdf)**

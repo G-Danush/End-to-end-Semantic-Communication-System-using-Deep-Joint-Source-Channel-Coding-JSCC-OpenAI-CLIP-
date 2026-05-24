@@ -12,7 +12,7 @@
 
 ![Repo Size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
 ![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
-![GitHub stars](https://img.shields.io/github/stars/G-Danush/iSWaMS-IoT-Smart-Waste-Management?style=social)
+![GitHub stars](https://img.shields.io/github/stars/G-Danush/End-to-end-Semantic-Communication-System-using-Deep-Joint-Source-Channel-Coding-JSCC-OpenAI-CLIP-?style=social)
 
 An end-to-end Semantic Communication framework that shifts the paradigm from traditional bit-level transmission (Shannon's limit) to meaning-preserving image transmission using Deep Joint Source-Channel Coding (JSCC) and Vision-Language Models.
 

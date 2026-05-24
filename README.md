@@ -2,7 +2,7 @@
 
 An end-to-end Semantic Communication framework that shifts the paradigm from traditional bit-level transmission (Shannon's limit) to meaning-preserving image transmission using Deep Joint Source-Channel Coding (JSCC) and Vision-Language Models.
 
-📄 **[Read the Full Thesis / Project Report Here]()**
+📄 **[Read the Full Thesis / Project Report Here](Semantic_communication_using_deep_learning.pdf)**
 
 ## 🚀 Project Overview
 Traditional digital communication systems (like 64-QAM) suffer from the "cliff effect"—a catastrophic loss of data when channel noise breaches a specific threshold. This project bypasses mathematical pixel-level transmission by utilizing a **Deep JSCC Autoencoder** to map images into a robust continuous latent space. 

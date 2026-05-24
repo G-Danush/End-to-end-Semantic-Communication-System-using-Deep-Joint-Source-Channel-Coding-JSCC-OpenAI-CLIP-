@@ -26,7 +26,7 @@ By integrating **OpenAI's CLIP** and **VGG-16 Perceptual Loss**, the system ensu
 
 ## ⚙️ How to Run
 This project was designed to run in a Google Colab environment equipped with an NVIDIA T4 GPU.
-1. Open the `.ipynb` file in Google Colab.
+1. Open the `.py` file in Google Colab.
 2. Ensure the hardware accelerator is set to GPU (T4).
 3. Run the cells sequentially. The script will automatically download the CIFAR-10 dataset, instantiate the models, and begin the Optuna optimization loop.
 

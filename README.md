@@ -10,7 +10,7 @@
 ![Metrics](https://img.shields.io/badge/Metrics-SSIM%20%7C%20Zero--Shot%20Acc-ff69b4)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Repo Size](https://img.shields.io/github/repo-size/G-Danush/End-to-end-Semantic-Communication-System-using-Deep-Joint-Source-Channel-Coding-JSCC-OpenAI-CLIP-)
+![GitHub repo size](https://img.shields.io/github/repo-size/G-Danush/End-to-end-Semantic-Communication-System-using-Deep-Joint-Source-Channel-Coding-JSCC-OpenAI-CLIP-)
 ![Last Commit](https://img.shields.io/github/last-commit/G-Danush/End-to-end-Semantic-Communication-System-using-Deep-Joint-Source-Channel-Coding-JSCC-OpenAI-CLIP-)
 ![GitHub stars](https://img.shields.io/github/stars/G-Danush/End-to-end-Semantic-Communication-System-using-Deep-Joint-Source-Channel-Coding-JSCC-OpenAI-CLIP-?style=social)
 
